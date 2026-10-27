@@ -125,9 +125,36 @@ Se o seu concurso for organizado pelo **Cebraspe**, a abordagem tradicional muda
 * **Preenchimento do Limite de Linhas**: Escrever entre **27 e 30 linhas** (próximo ao limite máximo) é uma estratégia tática eficiente, pois dilui o impacto matemático de eventuais erros gramaticais na nota final[56].
 * **Impessoalidade**: Mantenha o texto em 3ª pessoa do singular ou em construções impessoais, evitando o uso de *"eu"* ou *"nós"*
 
-* link do Noyebook: https://notebook.google.com/notebook/d13b5f76-04b0-4025-9111-cad2c49e6926
+### 5\. Qual a melhor estratégia para o Cebraspe?
 
+*  A melhor estratégia para ser aprovado na redação do Cebraspe (antigo CESPE) exige uma mudança fundamental de mentalidade: a banca não busca um texto literário ou uma dissertação tradicional do ENEM, mas sim uma resposta técnica, direta e altamente objetiva aos tópicos cobrados no caderno de questões.
+*  Para alcançar a nota máxima, a preparação deve ser pautada nos seguintes pilares táticos:
+*  1. A Regra dos Tópicos (Engenharia de Parágrafos)Nas provas do Cebraspe, o tema central vem acompanhado de 2 a 4 tópicos ou aspectos obrigatórios, cada um com uma pontuação específica atribuída no espelho de correção.
+   2. A Estrutura Ideal: A melhor estratégia é aplicar a correspondência direta, em que cada tópico da prova transforma-se em um parágrafo dedicado do seu texto.
+   3. Evite o Modelo Tradicional: Introduções retóricas e longas ou parágrafos de conclusão com propostas de intervenção no estilo ENEM não garantem pontuação adicional e consomem espaço valioso que deveria ser usado para responder aos quesitos1more_horiz. A conclusão do texto ocorre de forma natural ao encerrar a resposta ao último tópico.
+   4. Escrever 30 linhas dilui a penalização unitária dos desvios formais.
+   5. Objetividade, Palavras-Chave e Conectivos DirecionadoresO examinador de conteúdo avalia dezenas de redações por turno utilizando uma folha de critérios objetiva.
+   6. Uso de Palavras-Chave: Transcreva os termos técnicos, artigos de lei, jurisprudências ou conceitos solicitados de forma explícita e visível.
+   7. Sinalização Lógica com Conectivos: Inicie cada parágrafo de desenvolvimento indicando com clareza qual tópico está sendo respondido.
+   8. Exemplos:Abertura do Tópico 1: "Inicialmente, no que concerne a [tema do tópico 1], verifica-se que..."Transição para o Tópico 2: "Ademais, ao analisar [tema do tópico 2], cumpre ressaltar que..."Desenvolvimento do Tópico 3: "Por fim, quanto a [tema do tópico 3], destaca-se que...".
+   9. Cuidados Fatais na Folha DefinitivaRespeite as Margens Laterais: As folhas do Cebraspe são digitalizadas e recortadas eletronicamente; qualquer caractere gravado além da linha limite da margem será cortado e contabilizado como erro.
+   10. Rasuras Limpas: Em caso de erro ortográfico, faça apenas um traço horizontal simples sobre a palavra equivocada e escreva o termo correto imediatamente à frente (ex.: administrativo administração).
+   11. Proibição de Identificação: Não faça desenhos, rubricas ou marcas fora dos locais destinados, sob pena de anulação sumária por quebra de anonimato.
+  
+
+### * link do Noyebook: https://notebook.google.com/notebook/d13b5f76-04b0-4025-9111-cad2c49e6926
+
+
+
+<img width="834" height="715" alt="image" src="https://github.com/user-attachments/assets/b1312e5f-2ed8-4bf9-ab72-aa29fcbc67ea" />
 <img width="1340" height="910" alt="image" src="https://github.com/user-attachments/assets/d61e16b2-e2c0-47fc-bcf3-109229918c61" />
 <img width="1371" height="609" alt="image" src="https://github.com/user-attachments/assets/a917d7c2-3fbc-4295-a5b1-70d633424e11" />
 <img width="454" height="633" alt="image" src="https://github.com/user-attachments/assets/d01c1b0e-0bb6-4a3b-b72d-29d773bf3bc6" />
+<img width="695" height="872" alt="image" src="https://github.com/user-attachments/assets/2d91be36-0591-46e6-805f-b1e58e194a00" />
+<img width="1797" height="850" alt="image" src="https://github.com/user-attachments/assets/b1b1315c-eca2-4c80-b032-5db351dbd7a4" />
+<img width="863" height="642" alt="image" src="https://github.com/user-attachments/assets/153cfca8-6efb-4109-aef8-a1eac5fec552" />
+<img width="669" height="726" alt="image" src="https://github.com/user-attachments/assets/b8c5326a-92ac-4825-ac9d-5d2bebd5a077" />
+
+
+
 
