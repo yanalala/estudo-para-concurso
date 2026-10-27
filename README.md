@@ -126,3 +126,8 @@ Se o seu concurso for organizado pelo **Cebraspe**, a abordagem tradicional muda
 * **Impessoalidade**: Mantenha o texto em 3ª pessoa do singular ou em construções impessoais, evitando o uso de *"eu"* ou *"nós"*
 
 * link do Noyebook: https://notebook.google.com/notebook/d13b5f76-04b0-4025-9111-cad2c49e6926
+
+<img width="1340" height="910" alt="image" src="https://github.com/user-attachments/assets/d61e16b2-e2c0-47fc-bcf3-109229918c61" />
+<img width="1371" height="609" alt="image" src="https://github.com/user-attachments/assets/a917d7c2-3fbc-4295-a5b1-70d633424e11" />
+<img width="454" height="633" alt="image" src="https://github.com/user-attachments/assets/d01c1b0e-0bb6-4a3b-b72d-29d773bf3bc6" />
+
