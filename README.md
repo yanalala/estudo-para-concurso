@@ -1,8 +1,8 @@
 # Redação-para-Concurso
 Objetivo:
 Criar um mentor que ensine do zero tudo que for necessáro e eficaz sobre redações ou dissertações para concursos públicos 
-de cargos para nível superiuor, levando em consideração o nivel de exigencia de bancas como Cebrasp e FGV, 
-ele deve ter metodolias que realmente aprovam candidatos e que facilitem o aprendizado em pouco tempo. 
+de cargos para nível superior, levando em consideração o nível de exigência de bancas como Cebraspe, FGV... 
+Ele deve ter metodologias que realmente aprovam candidatos e que facilitem o aprendizado em pouco tempo. 
 
 Fontes de vídeo:
 https://www.youtube.com/watch?v=y_3kXC2PbIw&list=PLVE8awTDeTGOdfXOCkmaTdD4ueOCFOpGx
